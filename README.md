@@ -2,6 +2,8 @@
 
 An AppleScript that opens vim or nvim.
 
+![](vim-app.png)
+
 - Changes the current working directory to the folder of the file opened
 - Opens either nvim or vim (depending on the version used)
 - Closes the Terminal after closing vim/nvim
